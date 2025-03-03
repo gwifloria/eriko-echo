@@ -43,6 +43,51 @@
       "path": "Home.md",
       "matchesCriteria": true,
       "supposedList": "modified"
+    },
+    {
+      "path": "Blist/未命名.md",
+      "supposedList": "deleted",
+      "matchesCriteria": true
+    },
+    {
+      "path": "未命名.md",
+      "supposedList": "deleted",
+      "matchesCriteria": true
+    },
+    {
+      "path": "未命名.canvas",
+      "supposedList": "deleted",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Courses/01-Chrome架构：仅仅打开了1个页面，为什么有4个进程？.pdf",
+      "supposedList": "deleted",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Tech/README.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Tech/未命名.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Tech/浏览器原理与实战/01-Chrome架构：仅仅打开了1个页面，为什么有4个进程？.pdf",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Tech/浏览器原理与实战/notes/01.md",
+      "supposedList": "deleted",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Tech/浏览器原理与实战/notes/1.md",
+      "supposedList": "created",
+      "matchesCriteria": true
     }
   ],
   "tags": "#dailynote",

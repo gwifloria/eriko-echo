@@ -3,7 +3,8 @@
   "newFileLocation": "folder",
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Zattachments/Files",
-  "newFileFolderPath": "Blist",
+  "newFileFolderPath": "BTemp",
   "defaultViewMode": "preview",
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "trashOption": "local"
 }

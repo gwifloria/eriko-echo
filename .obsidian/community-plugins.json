@@ -27,10 +27,8 @@
   "obsidian-hover-editor",
   "obsidian-git",
   "obsidian-excalidraw-plugin",
-  "obsidian-full-calendar",
-  "advanced-canvas",
-  "obsidian-zotero-desktop-connector",
   "obsidian-annotator",
-  "obsidian-dice-roller",
-  "obsidian-day-planner"
+  "obsidian-day-planner",
+  "pdf-plus",
+  "obsidian-toggl-integration"
 ]
