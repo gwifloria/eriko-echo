@@ -1,0 +1,327 @@
+{
+  "main": {
+    "id": "57585faa1cca73ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b741842f92256af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd0148b556604b01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "这是一个简略的说明文件.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "这是一个简略的说明文件"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16fa6cd534109fc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "20349fc04ab7312b",
+        "type": "tabs",
+        "dimension": 47.12918660287082,
+        "children": [
+          {
+            "id": "b8f4b0404a0db10b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "858870506327d820",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": "",
+                "file": "Home.md"
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "1db5934ef29c6ed5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          }
+        ]
+      },
+      {
+        "id": "805f5aec1ff8d51b",
+        "type": "tabs",
+        "dimension": 52.87081339712918,
+        "children": [
+          {
+            "id": "49162ada5e75d4d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amap/Todo List.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "b3e5f469f4333362",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amap/Event List.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Event List"
+            }
+          },
+          {
+            "id": "3bac22d0e4b83a50",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231.00312423706055
+  },
+  "right": {
+    "id": "08fc4290aa11ac90",
+    "type": "split",
+    "children": [
+      {
+        "id": "b22d655e9ecfa8fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5391285d74e39418",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "c8bd8ffed6ab1c74",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "fed1c356ce571df1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true,
+                "file": "Diary/Weekly/2025-Week-10.md"
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "774932e5950f1d7f",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "a41c22f44f85d21f",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "fa7105f9e7457c5f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f50b690025c11f9d",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "b62278284e11b78f",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "surfing:surfing-bookmark-manager": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:创建新看板": false,
+      "homepage:Open homepage": false,
+      "periodic-notes:Open today": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
+    }
+  },
+  "active": "bd0148b556604b01",
+  "lastOpenFiles": [
+    "Home.md",
+    "Diary/Weekly/2025-Week-10.md",
+    "Diary/Daily/2025-03-03-周一.md",
+    "Diary/Daily/2025-03-02-周日.md",
+    "Zattachments/Templates/Work.md",
+    "Zattachments/Templates/Diary.md",
+    "Zattachments/Templates/Project.md",
+    "Diary/Weekly/122.md",
+    "Diary/Daily/2025-03-04-周二.md",
+    "Zattachments/Templates/Weekly.md",
+    "Zattachments/Templates/BDCDepression.md",
+    "Zattachments/Templates/Draft.md",
+    "Events/Meeting/@First Name Last Name.md",
+    "Diary/Weekly",
+    "Amap/Todo List.md",
+    "未命名.canvas",
+    "Zattachments/Templates/Course.md",
+    "Amap/Inbox.md",
+    "Zattachments/Templates/zt-annot.eta.md",
+    "Zattachments/Templates/Talk.md",
+    "Blist/未命名.md",
+    "Zattachments/Templates/Meeting.md",
+    "这是一个简略的说明文件.md",
+    "Library/01-Chrome架构：仅仅打开了1个页面，为什么有4个进程？.pdf",
+    "Library",
+    "Amap/Work List.md",
+    "Amap/Event List.md",
+    "Literature/Fong et al - 2015 - A Decade of Short-duration Gamma-ray Burst Broad-band Afterglows.pdf",
+    "Courses/Course A/Notes/Course A Lecture.md",
+    "Courses/Courses.md",
+    "Excalidraw/Drawing 2025-03-02 10.42.25.excalidraw.md",
+    "Excalidraw",
+    "Zattachments/Files/截屏2024-03-30 16.11.25.png",
+    "Zattachments/Files/homepage_banner.jpeg",
+    "Courses/General Relativity/Notes/GR4.pdf",
+    "Courses/General Relativity/Notes/GR3.pdf",
+    "Courses/General Relativity/Notes/GR2.pdf",
+    "Courses/General Relativity/Notes/GR1.pdf",
+    "Courses/General Relativity/Notes/GR Guest Lecture.pdf",
+    "Events/Workshops/GW data workshop/odw-2022/share/video-icon.png",
+    "Events/Workshops/GW data workshop/odw-2022/share/video-icon.jpg",
+    "Events/Workshops/GW data workshop/odw-2022/share/odw-2022-logo.png",
+    "Events/Workshops/GW data workshop/odw-2022/share/odw-2021-td.png",
+    "Events/Workshops/GW data workshop/odw-2022/share/ligo_virgo_transparent_crop_small.png",
+    "Events/Workshops/GW data workshop/odw-2022/Tutorials/logo.png",
+    "Events/Workshops/Codeastro/DataChef/docs/_build/html/_static/minus.png",
+    "Events/Workshops/Codeastro/DataChef/docs/_build/html/_static/file.png",
+    "Untitled.canvas",
+    "OBS Template/obsidian_vault_template_for_graduate_student/00-MOC/未命名 1.canvas",
+    "OBS Template/obsidian_vault_template_for_graduate_student/00-MOC/未命名.canvas",
+    "OBS Template/obsidian_vault_template_for_graduate_student/00-MOC/未命名 3.canvas",
+    "OBS Template/obsidian_vault_template_for_graduate_student/00-MOC/未命名 2.canvas",
+    "OBS Template/obsidian_vault_template_for_graduate_student/03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
+    "OBS Template/obsidian_vault_template_for_graduate_student/00-MOC/文献阅读白板.canvas"
+  ]
+}

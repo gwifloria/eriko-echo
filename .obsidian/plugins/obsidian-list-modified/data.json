@@ -1,0 +1,58 @@
+{
+  "excludedTags": [],
+  "excludedFolders": "",
+  "excludedNameContains": [],
+  "excludedExtensions": [],
+  "outputFormat": "- [[link]]",
+  "separateOutputFormats": false,
+  "createdFormat": "- [[link]]",
+  "modifiedFormat": "- [[link]]",
+  "deletedFormat": "- [[path]]",
+  "timeFormat": "YYYY-MM-DD",
+  "autoCreateLogNote": true,
+  "logNoteType": "daily",
+  "writeInterval": 0,
+  "combineCreatedAndModified": false,
+  "autoCreateCreatedDivider": false,
+  "autoCreateModifiedDivider": false,
+  "autoCreateDeletedDivider": false,
+  "verboseModeEnabled": false,
+  "lastTrackedDate": "2025-03-03",
+  "trackedFiles": [
+    {
+      "path": "Zattachments/Templates/Weekly.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "Diary/Weekly/122.md",
+      "supposedList": "deleted",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Diary/Weekly/2025-Week-10.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Diary/Daily/2025-03-04-周二.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Home.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    }
+  ],
+  "tags": "#dailynote",
+  "ignoredNameContains": "",
+  "appendSpaceAfterHeadings": false,
+  "autoCreatePrimaryHeading": false,
+  "primaryHeading": "NoteList",
+  "modifiedHeading": "Modified",
+  "separateCreated": false,
+  "createdHeading": "Created",
+  "separateDeleted": false,
+  "deletedHeading": "Deleted"
+}
