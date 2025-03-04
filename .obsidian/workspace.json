@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/浏览器原理与实战/README.md",
+                "file": "Tech/README.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
@@ -26,19 +26,19 @@
             "id": "4709ab29178ad7f3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Tech/浏览器原理与实战/01-Chrome架构：仅仅打开了1个页面，为什么有4个进程？.pdf",
-                "page": 2,
-                "left": -18,
-                "top": 273,
-                "zoom": 0.8468137254901963
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "01-Chrome架构：仅仅打开了1个页面，为什么有4个进程？"
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,7 +222,7 @@
             }
           },
           {
-            "id": "5d3c17d222d84cc2",
+            "id": "1ccdebfdade6a0f3",
             "type": "leaf",
             "state": {
               "type": "toggl-report",
@@ -260,9 +260,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bd0148b556604b01",
+  "active": "4709ab29178ad7f3",
   "lastOpenFiles": [
     "Tech/浏览器原理与实战/01-Chrome架构：仅仅打开了1个页面，为什么有4个进程？.pdf",
+    "Diary/Whispers",
     "Tech/浏览器原理与实战/README.md",
     "Tech/浏览器原理与实战/21.md",
     "Tech/浏览器原理与实战/浏览器原理与实战 notes.md",
