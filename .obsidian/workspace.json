@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "这是一个简略的说明文件.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "这是一个简略的说明文件"
+              "title": "Home"
             }
           }
         ],
@@ -268,8 +268,8 @@
   },
   "active": "4709ab29178ad7f3",
   "lastOpenFiles": [
-    "Home.md",
     "这是一个简略的说明文件.md",
+    "Home.md",
     "Excalidraw/Drawing 2025-03-04 16.51.02.excalidraw.md",
     "Excalidraw/Drawing 2025-03-04 16.59.45.excalidraw.md",
     "Excalidraw/Drawing 2025-03-02 10.42.25.excalidraw.md",

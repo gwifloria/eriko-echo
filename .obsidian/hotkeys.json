@@ -129,14 +129,6 @@
       "key": "H"
     }
   ],
-  "quickadd:runQuickAdd": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "A"
-    }
-  ],
   "workspace:edit-file-title": [
     {
       "modifiers": [
@@ -152,6 +144,15 @@
         "Mod"
       ],
       "key": "T"
+    }
+  ],
+  "quickadd:runQuickAdd": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "="
     }
   ]
 }
