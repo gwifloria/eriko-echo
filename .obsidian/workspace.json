@@ -36,9 +36,24 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "66757c32c7f98fb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BTemp/未命名.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -266,10 +281,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4709ab29178ad7f3",
+  "active": "66757c32c7f98fb6",
   "lastOpenFiles": [
-    "这是一个简略的说明文件.md",
     "Home.md",
+    "BTemp/未命名.md",
+    "这是一个简略的说明文件.md",
     "Excalidraw/Drawing 2025-03-04 16.51.02.excalidraw.md",
     "Excalidraw/Drawing 2025-03-04 16.59.45.excalidraw.md",
     "Excalidraw/Drawing 2025-03-02 10.42.25.excalidraw.md",
@@ -303,7 +319,6 @@
     "Zattachments/Templates/Diary.md",
     "Zattachments/Templates/Project.md",
     "Diary/Weekly/122.md",
-    "Zattachments/Templates/Weekly.md",
     "Diary/Weekly",
     "Zattachments/Files/截屏2024-03-30 16.11.25.png",
     "Zattachments/Files/homepage_banner.jpeg",

@@ -83,6 +83,11 @@
       "path": "这是一个简略的说明文件.md",
       "matchesCriteria": true,
       "supposedList": "modified"
+    },
+    {
+      "path": "BTemp/未命名.md",
+      "supposedList": "created",
+      "matchesCriteria": true
     }
   ],
   "tags": "#dailynote",
