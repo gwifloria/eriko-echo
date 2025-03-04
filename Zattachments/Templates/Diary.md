@@ -1,7 +1,7 @@
 ---
 tags:
   - dailynote
-date: <% tp.date.now("YYYY-MM-DD") %>
+date: <% tp.date.now(“YYYY-MM-DD”) %>
 cssclasses:
   - cards
   - cards-cols-3
@@ -30,19 +30,3 @@ dv.taskList(
 ```
 
 <br>%% %%
-
-<!-- ### NoteList
-
-%% ### ReadList
-
-```dataview
-TABLE comment AS Comments, join(file.etags, "<br />") AS Tags
-FROM "Literature/Notes" or "Events"
-WHERE file.name[0] = "@"
-WHERE file.tags[0] != "#unread"
-WHERE file.mtime>=date(<% tp.date.now("YYYY-MM-DD") %>) AND file.mtime<date(<% tp.date.now("YYYY-MM-DD", 1) %>)
-SORT file.mtime desc
-```
-
-<br>
- %% -->

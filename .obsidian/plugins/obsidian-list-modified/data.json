@@ -38,6 +38,16 @@
       "path": "Tech/浏览器原理与实战/21.md",
       "supposedList": "deleted",
       "matchesCriteria": true
+    },
+    {
+      "path": "Amap/Todo List.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "Zattachments/Templates/Diary.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
     }
   ],
   "tags": "#dailynote",
