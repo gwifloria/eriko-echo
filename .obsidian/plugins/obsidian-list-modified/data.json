@@ -48,6 +48,16 @@
       "path": "Zattachments/Templates/Diary.md",
       "matchesCriteria": true,
       "supposedList": "modified"
+    },
+    {
+      "path": "Amap/Work List.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "Diary/Daily/2025-03-04-周二.md",
+      "supposedList": "deleted",
+      "matchesCriteria": true
     }
   ],
   "tags": "#dailynote",

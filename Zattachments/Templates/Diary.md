@@ -11,6 +11,11 @@ cssclasses:
 
 <br>%% %%
 
+```dataviewjs
+const {Daily, Research} = customJS
+Daily.display(dv, Research)
+```
+
 ### TaskList
 
 ```dataviewjs

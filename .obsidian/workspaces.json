@@ -224,6 +224,22 @@
                 }
               }
             ]
+          },
+          {
+            "id": "9ee42d630a23f55c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f29abe29ed679a69",
+                "type": "leaf",
+                "state": {
+                  "type": "toggl-report",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Toggl Report"
+                }
+              }
+            ]
           }
         ],
         "direction": "horizontal",
@@ -246,7 +262,6 @@
           "workspaces:管理工作区布局": false,
           "obsidian-kanban:创建新看板": false,
           "obsidian-git:Open Git source control": false,
-          "obsidian-full-calendar:Open Full Calendar": false,
           "homepage:Open homepage": false,
           "surfing:surfing-bookmark-manager": true,
           "templater-obsidian:Templater": true,
@@ -254,7 +269,7 @@
         }
       },
       "active": "4709ab29178ad7f3",
-      "mtime": "2025-03-03T15:20:08+08:00"
+      "mtime": "2025-03-04T15:19:43+08:00"
     },
     "PDFReader": {
       "main": {
