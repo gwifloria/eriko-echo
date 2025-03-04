@@ -58,6 +58,31 @@
       "path": "Diary/Daily/2025-03-04-周二.md",
       "supposedList": "deleted",
       "matchesCriteria": true
+    },
+    {
+      "path": "BTemp/Courses.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Home.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "Excalidraw/Drawing 2025-03-04 16.51.02.excalidraw.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Excalidraw/Drawing 2025-03-04 16.59.45.excalidraw.md",
+      "supposedList": "deleted",
+      "matchesCriteria": true
+    },
+    {
+      "path": "这是一个简略的说明文件.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
     }
   ],
   "tags": "#dailynote",

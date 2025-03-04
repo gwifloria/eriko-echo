@@ -10,8 +10,7 @@ cssclasses:
 
 ---
 
-`````contributionWidget
-id: f88a3438-8a23-487d-a13d-fd19914a50df
+`````contributionWidgeid: f88a3438-8a23-487d-a13d-fd19914a50df
 type: multi
 titleAlign: center
 tabTitle: ""
@@ -71,7 +70,7 @@ widgets:
     maxWidthRatio: 39.756585854146834
     query: |-
       dv.taskList(
-          dv.pages('"Projects" or "Events" or "Literature" or "Blist" or "Courses"').flatMap(page => {
+          dv.pages('"Projects" or "Events" or "Literature" or "BTemp" or "Courses"').flatMap(page => {
               let tags = String(page.tags).split(" ");
               if (tags.includes("list")) {
                   return page.file.tasks.where(t =>
@@ -101,7 +100,6 @@ widgets:
     backgroundColor: "#E4DFD963"
     fontColor: "#40352e"
 layoutType: column
-
 `````
 
 ```contributionWidget

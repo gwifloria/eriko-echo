@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "这是一个简略的说明文件.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "这是一个简略的说明文件"
             }
           }
         ],
@@ -50,7 +50,7 @@
       {
         "id": "20349fc04ab7312b",
         "type": "tabs",
-        "dimension": 47.12918660287082,
+        "dimension": 47.0954356846473,
         "children": [
           {
             "id": "b8f4b0404a0db10b",
@@ -102,7 +102,7 @@
       {
         "id": "805f5aec1ff8d51b",
         "type": "tabs",
-        "dimension": 52.87081339712918,
+        "dimension": 52.9045643153527,
         "children": [
           {
             "id": "49162ada5e75d4d3",
@@ -268,12 +268,17 @@
   },
   "active": "4709ab29178ad7f3",
   "lastOpenFiles": [
+    "Home.md",
+    "这是一个简略的说明文件.md",
+    "Excalidraw/Drawing 2025-03-04 16.51.02.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-04 16.59.45.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-02 10.42.25.excalidraw.md",
+    "BTemp/Courses.md",
     "Amap/Todo List.md",
     "Diary/Daily/2025-03-04-周二.md",
     "Diary/Weekly/2025-Week-10.md",
     "Diary/Daily/2025-03-03-周一.md",
     "Diary/Daily/2025-03-02-周日.md",
-    "Home.md",
     "Amap/Inbox.md",
     "Tech/浏览器原理与实战/01-Chrome架构：仅仅打开了1个页面，为什么有4个进程？.pdf",
     "Diary/Whispers",
@@ -290,7 +295,6 @@
     "Tech/未命名.md",
     "Courses/01-Chrome架构：仅仅打开了1个页面，为什么有4个进程？.pdf",
     "Amap/Event List.md",
-    "这是一个简略的说明文件.md",
     "未命名.canvas",
     "未命名.md",
     "Blist/未命名.md",
@@ -300,9 +304,6 @@
     "Zattachments/Templates/Project.md",
     "Diary/Weekly/122.md",
     "Zattachments/Templates/Weekly.md",
-    "Zattachments/Templates/BDCDepression.md",
-    "Zattachments/Templates/Draft.md",
-    "Events/Meeting/@First Name Last Name.md",
     "Diary/Weekly",
     "Zattachments/Files/截屏2024-03-30 16.11.25.png",
     "Zattachments/Files/homepage_banner.jpeg",
