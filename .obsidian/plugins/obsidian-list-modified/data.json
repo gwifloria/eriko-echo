@@ -18,7 +18,28 @@
   "autoCreateDeletedDivider": false,
   "verboseModeEnabled": false,
   "lastTrackedDate": "2025-03-04",
-  "trackedFiles": [],
+  "trackedFiles": [
+    {
+      "path": "Tech/浏览器原理与实战/README.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Tech/浏览器原理与实战/01-Chrome架构：仅仅打开了1个页面，为什么有4个进程？.pdf",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Tech/浏览器原理与实战/浏览器原理与实战 notes.md",
+      "supposedList": "deleted",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Tech/浏览器原理与实战/21.md",
+      "supposedList": "deleted",
+      "matchesCriteria": true
+    }
+  ],
   "tags": "#dailynote",
   "ignoredNameContains": "",
   "appendSpaceAfterHeadings": false,

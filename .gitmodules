@@ -1,0 +1,3 @@
+[submodule "Tech"]
+	path = Tech
+	url = git@github.com:gwifloria/courses-pdf.git

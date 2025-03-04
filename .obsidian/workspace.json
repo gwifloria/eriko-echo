@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/README.md",
+                "file": "Tech/浏览器原理与实战/README.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
@@ -26,19 +26,19 @@
             "id": "4709ab29178ad7f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "file": "Tech/浏览器原理与实战/01-Chrome架构：仅仅打开了1个页面，为什么有4个进程？.pdf",
+                "page": 2,
+                "left": -18,
+                "top": 273,
+                "zoom": 0.8468137254901963
               },
-              "icon": "lucide-file",
-              "title": "Home"
+              "icon": "lucide-file-text",
+              "title": "01-Chrome架构：仅仅打开了1个页面，为什么有4个进程？"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -260,25 +260,28 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4709ab29178ad7f3",
+  "active": "bd0148b556604b01",
   "lastOpenFiles": [
+    "Tech/浏览器原理与实战/01-Chrome架构：仅仅打开了1个页面，为什么有4个进程？.pdf",
+    "Tech/浏览器原理与实战/README.md",
+    "Tech/浏览器原理与实战/21.md",
+    "Tech/浏览器原理与实战/浏览器原理与实战 notes.md",
+    "Tech/浏览器原理与实战/content",
+    "Home.md",
+    "Tech/浏览器原理与实战",
+    "Tech",
     "Diary/Daily/2025-03-04-周二.md",
     "Amap/Todo List.md",
     "Diary/Daily/2025-03-03-周一.md",
     "Diary/Daily/2025-03-02-周日.md",
     "Diary/Weekly/2025-Week-10.md",
     "Amap/Inbox.md",
-    "Tech/浏览器原理与实战/01-Chrome架构：仅仅打开了1个页面，为什么有4个进程？.pdf",
     "Tech/浏览器原理与实战/notes/1.md",
-    "Home.md",
-    "Tech/README.md",
     "Tech/浏览器原理与实战/notes/01.md",
     "Tech/notes",
     "Tech/浏览器原理与实战/notes",
     "Tech/未命名.md",
     "Courses/01-Chrome架构：仅仅打开了1个页面，为什么有4个进程？.pdf",
-    "Tech/浏览器原理与实战",
-    "Tech",
     "Amap/Event List.md",
     "这是一个简略的说明文件.md",
     "未命名.canvas",
@@ -294,10 +297,7 @@
     "Zattachments/Templates/Draft.md",
     "Events/Meeting/@First Name Last Name.md",
     "Diary/Weekly",
-    "Zattachments/Templates/Course.md",
-    "Zattachments/Templates/zt-annot.eta.md",
     "Library/01-Chrome架构：仅仅打开了1个页面，为什么有4个进程？.pdf",
-    "Library",
     "Zattachments/Files/截屏2024-03-30 16.11.25.png",
     "Zattachments/Files/homepage_banner.jpeg",
     "Events/Workshops/GW data workshop/odw-2022/share/video-icon.png",
