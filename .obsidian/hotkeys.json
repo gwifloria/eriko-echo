@@ -144,5 +144,14 @@
       ],
       "key": "R"
     }
+  ],
+  "obsidian-toggl-integration:start-timer": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
+    }
   ]
 }
