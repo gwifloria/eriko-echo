@@ -328,6 +328,16 @@
       "path": "BTemp/跟着灵神学算法.md",
       "supposedList": "created",
       "matchesCriteria": true
+    },
+    {
+      "path": "Zattachments/Templates/Diary.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "Diary/Daily/2025-03-05-周三.md",
+      "supposedList": "deleted",
+      "matchesCriteria": true
     }
   ],
   "tags": "#dailynote",
