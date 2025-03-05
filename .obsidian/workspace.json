@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/Daily/2025-03-05-周三.md",
+                "file": "Diary/Mood/2025-03-05拖延记录.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-05-周三"
+              "title": "2025-03-05拖延记录"
+            }
+          },
+          {
+            "id": "a75de4a8a1f647d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BTemp/跟着灵神学算法.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "跟着灵神学算法"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -253,9 +269,12 @@
       "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "a33981bc6e986dcb",
+  "active": "a75de4a8a1f647d5",
   "lastOpenFiles": [
     "Diary/Mood/2025-03-05拖延记录.md",
+    "BTemp/跟着灵神学算法.md",
+    "Diary/Daily/2025-03-04-周二.md",
+    "Diary/Daily/2025-03-05-周三.md",
     "Diary/Daily/2025-03-03-周一.md",
     "Zattachments/Templates/📝 反拖延记录表.md",
     "BookShelf/伯恩斯新情绪疗法2：转化日常不良情绪的有效工具 (（美）戴维·伯恩斯) ).md",
@@ -278,9 +297,6 @@
     "BookShelf/明朝那些事儿（全集）.md",
     "BookShelf/法医秦明：万象卷（套装4册）.md",
     "BookShelf/法医秦明：尸语者（全2册）.md",
-    "BookShelf/法医秦明：无声的证词.md",
-    "BookShelf/法医秦明：第十一根手指.md",
-    "BookShelf/紫金陈：高智商犯罪（全集）.md",
     "BookShelf",
     "Diary/Mood",
     "Tech/浏览器原理与实战/01-Chrome架构：仅仅打开了1个页面，为什么有4个进程？.pdf",

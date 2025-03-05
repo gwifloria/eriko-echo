@@ -323,6 +323,11 @@
       "path": "BookShelf/谁动了我的奶酪.md",
       "supposedList": "created",
       "matchesCriteria": true
+    },
+    {
+      "path": "BTemp/跟着灵神学算法.md",
+      "supposedList": "created",
+      "matchesCriteria": true
     }
   ],
   "tags": "#dailynote",
