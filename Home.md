@@ -7,10 +7,11 @@ cssclasses:
 ---
 
 # <div style="font-size: 28px;color:#A27E7E"> 🍳 Homepage</div>
-v
+
 ---
 
-`````contributionWidgeid: f88a3438-8a23-487d-a13d-fd19914a50df
+`````contributionWidget
+id: f88a3438-8a23-487d-a13d-fd19914a50df
 type: multi
 titleAlign: center
 tabTitle: ""
@@ -70,7 +71,7 @@ widgets:
     maxWidthRatio: 39.756585854146834
     query: |-
       dv.taskList(
-          dv.pages('"Projects" or "Events" or "Literature" or "BTemp" or "Courses"').flatMap(page => {
+          dv.pages('"Projects" or "Events" or "Literature" or "Blist" or "Courses"').flatMap(page => {
               let tags = String(page.tags).split(" ");
               if (tags.includes("list")) {
                   return page.file.tasks.where(t =>
@@ -100,6 +101,7 @@ widgets:
     backgroundColor: "#E4DFD963"
     fontColor: "#40352e"
 layoutType: column
+
 `````
 
 ```contributionWidget
@@ -139,12 +141,12 @@ widgets:
         backgroundStyle: card
         showStartDateTime: false
         timeTextPattern: yMdHms
-        title: xix
+        title: Whatever you like to put here
         startDateTime: 2021-09-01 00:00:00
         backgroundColor: "#E4DFD963"
         fontColor: "#40352e"
     layoutType: column
-layoutType: tab
+layoutType: column
 
 ```
 
@@ -187,10 +189,5 @@ mainContainerStyle:
 cellStyle:
   borderRadius: ""
   minWidth: 4px
-
-
-```
-
-```full-calendar
 
 ```

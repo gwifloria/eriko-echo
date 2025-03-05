@@ -17,77 +17,12 @@
   "autoCreateModifiedDivider": false,
   "autoCreateDeletedDivider": false,
   "verboseModeEnabled": false,
-  "lastTrackedDate": "2025-03-04",
+  "lastTrackedDate": "2025-03-05",
   "trackedFiles": [
-    {
-      "path": "Tech/浏览器原理与实战/README.md",
-      "supposedList": "created",
-      "matchesCriteria": true
-    },
-    {
-      "path": "Tech/浏览器原理与实战/01-Chrome架构：仅仅打开了1个页面，为什么有4个进程？.pdf",
-      "supposedList": "created",
-      "matchesCriteria": true
-    },
-    {
-      "path": "Tech/浏览器原理与实战/浏览器原理与实战 notes.md",
-      "supposedList": "deleted",
-      "matchesCriteria": true
-    },
-    {
-      "path": "Tech/浏览器原理与实战/21.md",
-      "supposedList": "deleted",
-      "matchesCriteria": true
-    },
-    {
-      "path": "Amap/Todo List.md",
-      "matchesCriteria": true,
-      "supposedList": "modified"
-    },
-    {
-      "path": "Zattachments/Templates/Diary.md",
-      "matchesCriteria": true,
-      "supposedList": "modified"
-    },
-    {
-      "path": "Amap/Work List.md",
-      "matchesCriteria": true,
-      "supposedList": "modified"
-    },
-    {
-      "path": "Diary/Daily/2025-03-04-周二.md",
-      "supposedList": "deleted",
-      "matchesCriteria": true
-    },
-    {
-      "path": "BTemp/Courses.md",
-      "supposedList": "created",
-      "matchesCriteria": true
-    },
     {
       "path": "Home.md",
       "matchesCriteria": true,
       "supposedList": "modified"
-    },
-    {
-      "path": "Excalidraw/Drawing 2025-03-04 16.51.02.excalidraw.md",
-      "supposedList": "created",
-      "matchesCriteria": true
-    },
-    {
-      "path": "Excalidraw/Drawing 2025-03-04 16.59.45.excalidraw.md",
-      "supposedList": "deleted",
-      "matchesCriteria": true
-    },
-    {
-      "path": "这是一个简略的说明文件.md",
-      "matchesCriteria": true,
-      "supposedList": "modified"
-    },
-    {
-      "path": "BTemp/未命名.md",
-      "supposedList": "created",
-      "matchesCriteria": true
     }
   ],
   "tags": "#dailynote",
