@@ -28,6 +28,26 @@
       "path": "BTemp/体态调整 - from chat gpt.md",
       "matchesCriteria": true,
       "supposedList": "modified"
+    },
+    {
+      "path": "Zattachments/Templates/📝 反拖延记录表.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Zattachments/Templates/BDCDepression.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "Diary/Mood/2025-03-05.md",
+      "supposedList": "deleted",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Diary/Mood/2025-03-05拖延记录.md",
+      "supposedList": "created",
+      "matchesCriteria": true
     }
   ],
   "tags": "#dailynote",

@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BTemp/体态调整 - from chat gpt.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "体态调整 - from chat gpt"
+              "title": "Home"
             }
           }
         ],
@@ -144,7 +144,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -246,6 +247,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-weread-plugin:同步微信读书笔记": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
@@ -267,12 +269,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b8f4b0404a0db10b",
+  "active": "4709ab29178ad7f3",
   "lastOpenFiles": [
-    "Amap/Event List.md",
-    "Amap/Todo List.md",
-    "Home.md",
+    "Zattachments/Templates/📝 反拖延记录表.md",
+    "BookShelf",
+    "Diary/Mood/2025-03-05拖延记录.md",
     "Diary/Daily/2025-03-05-周三.md",
+    "Amap/Todo List.md",
+    "Amap/Event List.md",
+    "Diary/Mood/2025-03-05.md",
+    "Zattachments/Templates/BDCDepression.md",
+    "Zattachments/Templates/Course.md",
+    "Zattachments/Templates/Diary.md",
+    "Diary/Mood",
+    "BTemp/体态调整 - from chat gpt.md",
+    "Home.md",
     "Diary/Daily/2025-03-04-周二.md",
     "Diary/Whispers/2.25 焦虑.md",
     "Diary/Whispers/2025 年，是谁还在想结婚？.md",
@@ -284,17 +295,9 @@
     "Diary/Whispers/静不下心的本质是什么.md",
     "Diary/Whispers/回答一年空白期.md",
     "Diary/Whispers/焦虑.md",
-    "BTemp/体态调整 - from chat gpt.md",
     "Diary/Whispers/2.24 焦虑.md",
     "这是一个简略的说明文件.md",
     "Excalidraw/Drawing 2025-03-04 16.51.02.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-04 16.59.45.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-02 10.42.25.excalidraw.md",
-    "BTemp/Courses.md",
-    "Diary/Weekly/2025-Week-10.md",
-    "Diary/Daily/2025-03-03-周一.md",
-    "Diary/Daily/2025-03-02-周日.md",
-    "Amap/Inbox.md",
     "Tech/浏览器原理与实战/01-Chrome架构：仅仅打开了1个页面，为什么有4个进程？.pdf",
     "Diary/Whispers",
     "Tech/浏览器原理与实战/content",
@@ -304,8 +307,6 @@
     "Tech/浏览器原理与实战/notes",
     "Courses/01-Chrome架构：仅仅打开了1个页面，为什么有4个进程？.pdf",
     "未命名.canvas",
-    "未命名",
-    "Diary/Weekly",
     "Zattachments/Files/截屏2024-03-30 16.11.25.png",
     "Zattachments/Files/homepage_banner.jpeg",
     "Events/Workshops/GW data workshop/odw-2022/share/video-icon.png",

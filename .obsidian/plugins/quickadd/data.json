@@ -113,6 +113,36 @@
       "openFileInMode": "default"
     },
     {
+      "id": "a34193e6-9f27-438c-947b-05a0b86daaa5",
+      "name": "Delaying",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Zattachments/Templates/📝 反拖延记录表.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{date}}拖延记录"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Diary/Mood"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
       "id": "dc5524db-5ae2-4fee-9e2f-bb3f405a1b99",
       "name": "🌫 Logging",
       "type": "Capture",
@@ -153,7 +183,7 @@
       "type": "Multi",
       "command": false,
       "choices": [],
-      "collapsed": true
+      "collapsed": false
     },
     {
       "id": "888d2207-b5da-4ff9-9eb5-9a75f9fd5e4f",
@@ -370,7 +400,7 @@
           "openFileInMode": "default"
         }
       ],
-      "collapsed": false
+      "collapsed": true
     }
   ],
   "macros": [
@@ -386,7 +416,7 @@
           "settings": {}
         }
       ],
-      "runOnStartup": false
+      "runOnStartup": true
     },
     {
       "name": "Archive Tasks",
@@ -400,7 +430,7 @@
           "settings": {}
         }
       ],
-      "runOnStartup": false
+      "runOnStartup": true
     },
     {
       "name": "Archive Events",
@@ -414,7 +444,7 @@
           "settings": {}
         }
       ],
-      "runOnStartup": false
+      "runOnStartup": true
     },
     {
       "name": "Auto Diary",
@@ -434,7 +464,7 @@
           "choiceId": "cb593dd2-aeb4-4167-bfa5-f38b451891c4"
         }
       ],
-      "runOnStartup": false
+      "runOnStartup": true
     }
   ],
   "inputPrompt": "single-line",

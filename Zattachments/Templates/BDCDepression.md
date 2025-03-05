@@ -1,5 +1,5 @@
 #mood #depression #weeklynote 
-{{date:YYYY-MM-DD}}
+日期:  <% tp.date.now("YYYY-MM-DD") %>
 ## 评分标准：
 
 | 分数    | 描述   |
