@@ -31,7 +31,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Home.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
@@ -160,6 +160,7 @@
           {
             "id": "b22d655e9ecfa8fe",
             "type": "tabs",
+            "dimension": 60.93439363817097,
             "children": [
               {
                 "id": "5391285d74e39418",
@@ -228,6 +229,7 @@
           {
             "id": "9ee42d630a23f55c",
             "type": "tabs",
+            "dimension": 39.065606361829026,
             "children": [
               {
                 "id": "f29abe29ed679a69",
@@ -269,7 +271,7 @@
         }
       },
       "active": "4709ab29178ad7f3",
-      "mtime": "2025-03-04T15:19:43+08:00"
+      "mtime": "2025-03-05T09:14:43+08:00"
     },
     "PDFReader": {
       "main": {

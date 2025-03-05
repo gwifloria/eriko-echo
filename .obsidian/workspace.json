@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "BTemp/体态调整 - from chat gpt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "体态调整 - from chat gpt"
             }
           }
         ],
@@ -144,8 +144,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,6 +157,7 @@
       {
         "id": "b22d655e9ecfa8fe",
         "type": "tabs",
+        "dimension": 60.93439363817097,
         "children": [
           {
             "id": "5391285d74e39418",
@@ -226,6 +226,7 @@
       {
         "id": "9ee42d630a23f55c",
         "type": "tabs",
+        "dimension": 39.065606361829026,
         "children": [
           {
             "id": "f29abe29ed679a69",
@@ -266,8 +267,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4709ab29178ad7f3",
+  "active": "b8f4b0404a0db10b",
   "lastOpenFiles": [
+    "Amap/Event List.md",
+    "Amap/Todo List.md",
+    "Home.md",
+    "Diary/Daily/2025-03-05-周三.md",
+    "Diary/Daily/2025-03-04-周二.md",
     "Diary/Whispers/2.25 焦虑.md",
     "Diary/Whispers/2025 年，是谁还在想结婚？.md",
     "Diary/Whispers/软件的社交属性为什么可以刺激用户使用？.md",
@@ -278,24 +284,19 @@
     "Diary/Whispers/静不下心的本质是什么.md",
     "Diary/Whispers/回答一年空白期.md",
     "Diary/Whispers/焦虑.md",
-    "BTemp/未命名.md",
-    "Diary/Daily/2025-03-05-周三.md",
+    "BTemp/体态调整 - from chat gpt.md",
     "Diary/Whispers/2.24 焦虑.md",
-    "Home.md",
     "这是一个简略的说明文件.md",
     "Excalidraw/Drawing 2025-03-04 16.51.02.excalidraw.md",
     "Excalidraw/Drawing 2025-03-04 16.59.45.excalidraw.md",
     "Excalidraw/Drawing 2025-03-02 10.42.25.excalidraw.md",
     "BTemp/Courses.md",
-    "Amap/Todo List.md",
-    "Diary/Daily/2025-03-04-周二.md",
     "Diary/Weekly/2025-Week-10.md",
     "Diary/Daily/2025-03-03-周一.md",
     "Diary/Daily/2025-03-02-周日.md",
     "Amap/Inbox.md",
     "Tech/浏览器原理与实战/01-Chrome架构：仅仅打开了1个页面，为什么有4个进程？.pdf",
     "Diary/Whispers",
-    "Tech/浏览器原理与实战/README.md",
     "Tech/浏览器原理与实战/content",
     "Tech/浏览器原理与实战",
     "Tech",

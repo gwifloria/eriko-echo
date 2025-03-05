@@ -23,6 +23,11 @@
       "path": "Home.md",
       "matchesCriteria": true,
       "supposedList": "modified"
+    },
+    {
+      "path": "BTemp/体态调整 - from chat gpt.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
     }
   ],
   "tags": "#dailynote",
